@@ -1,0 +1,42 @@
+html{
+    background-color: black;
+}
+.img1{
+   margin-top: 30px;
+   margin-left: 20px;
+   align-content: center;
+   width: 1300px;
+   height: 500px;
+   padding-left: 3%;
+   padding-top: 0%;
+   justify-items: auto;
+}
+.git{
+    font-weight: 90;
+    font-size: "40px";
+    text-size-adjust: 80px;
+    text-justify: auto;
+    position: flex;
+    align-items: center;
+} 
+h1{
+    font-family: 'Calibri';
+    font-size: 50px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-variant: small-caps;
+    font-weight: 100;
+    color: red; 
+}
+.profile{
+    background-color: aqua;
+    display: flex;
+    justify-content:"20px";
+    padding: 14px 16px;
+    border: 1px solid #e7e7e7;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 10%;
+}

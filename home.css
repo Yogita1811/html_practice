@@ -1,0 +1,28 @@
+.details {
+    background-color: cyan;
+    display: flex;              
+    justify-content: center;   
+    gap: 2rem;                
+    padding: 1rem;           
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid black;  
+    border-radius: 8px;       
+}
+
+.details a {
+    text-decoration: none;   
+    font-weight: bold;        
+    color: black;             
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+html {
+    background-color: lightsalmon;
+}
